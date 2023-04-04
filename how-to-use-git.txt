@@ -1,0 +1,14 @@
+Git First Time Set Up:
+1.Go inside project folder using cd
+2.check if git is already configured using : git status
+3.Init the git if git hasnt been figured : git init  //in that specific folder
+4.Start tracking the file : git add <file_name> or git add .
+5.Create checkpoint or commit : git commit -am "message of the commit"
+6.Provide the details of remote : git remote add origin <url> //origin is a name, can be anything else
+7.CHeck the name of default branch : git branch
+8.Push code to the git server (github ) : git push origin <name_of_branch>
+
+Git Update:
+1.Start tracking the file : git add <file_name> or git add .
+2.Create checkpoint or commit : git commit -am "message of the commit"
+3.Push code to the git server (github ) : git push origin <name_of_branch>
